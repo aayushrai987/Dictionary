@@ -2,7 +2,7 @@
 
 A simple and clean web-based dictionary website built with **HTML, CSS, and JavaScript**. This app allows users to look up definitions, phonetics, and parts of speech for any word using a free dictionary API.
 
-https://github.com/user-attachments/assets/89353e19-7e09-4a71-8c20-a631fdfb3c2f
+<img width="1440" height="813" alt="GlobalWordDictionary" src="https://github.com/user-attachments/assets/5919c4c1-aadb-49e3-a58e-e7363274b8c2" />
 
 
 ---
